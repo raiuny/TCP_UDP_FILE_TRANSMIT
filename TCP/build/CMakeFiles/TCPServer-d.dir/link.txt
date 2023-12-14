@@ -1,0 +1,1 @@
+gcc -static CMakeFiles/TCPServer-d.dir/TCPServer.c.o -o bin/TCPServer-d 

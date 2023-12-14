@@ -1,0 +1,1 @@
+gcc CMakeFiles/udpcli.dir/udpcli.c.o -o bin/udpcli 

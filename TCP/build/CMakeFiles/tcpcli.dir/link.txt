@@ -1,0 +1,1 @@
+gcc CMakeFiles/tcpcli.dir/tcpcli.c.o -o bin/tcpcli 

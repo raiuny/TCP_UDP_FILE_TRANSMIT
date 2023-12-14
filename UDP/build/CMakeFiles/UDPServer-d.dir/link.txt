@@ -1,0 +1,1 @@
+gcc -static CMakeFiles/UDPServer-d.dir/UDPServer.c.o -o bin/UDPServer-d 

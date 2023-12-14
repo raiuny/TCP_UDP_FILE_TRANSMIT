@@ -1,0 +1,5 @@
+/home/raiuny/projects/Socket/UDP/build/CMakeFiles/UDPServer.dir
+/home/raiuny/projects/Socket/UDP/build/CMakeFiles/UDPServer-d.dir
+/home/raiuny/projects/Socket/UDP/build/CMakeFiles/udpcli.dir
+/home/raiuny/projects/Socket/UDP/build/CMakeFiles/edit_cache.dir
+/home/raiuny/projects/Socket/UDP/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/home/raiuny/projects/Socket/TCP/build/CMakeFiles/TCPServer.dir
+/home/raiuny/projects/Socket/TCP/build/CMakeFiles/TCPServer-d.dir
+/home/raiuny/projects/Socket/TCP/build/CMakeFiles/tcpcli.dir
+/home/raiuny/projects/Socket/TCP/build/CMakeFiles/copy.dir
+/home/raiuny/projects/Socket/TCP/build/CMakeFiles/edit_cache.dir
+/home/raiuny/projects/Socket/TCP/build/CMakeFiles/rebuild_cache.dir
